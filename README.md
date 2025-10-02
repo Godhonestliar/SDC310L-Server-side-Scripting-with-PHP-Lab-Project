@@ -38,4 +38,4 @@ This project is a comprehensive exploration of fundamental programming concepts 
 - **Agile Methodology**: Emphasizing iterative development, continuous feedback, and collaboration.
 
 ## Link to Project
-[[Example Project Repository](https://github.com/username/example-project)](https://github.com/Godhonestliar/SDC310L-Server-side-Scripting-with-PHP-Lab-Project/edit/main/README.md)
+(https://github.com/Godhonestliar/SDC310L-Server-side-Scripting-with-PHP-Lab-Project)
